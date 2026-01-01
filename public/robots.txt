@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://savage-63b9dece.zappy5.app/sitemap.xml

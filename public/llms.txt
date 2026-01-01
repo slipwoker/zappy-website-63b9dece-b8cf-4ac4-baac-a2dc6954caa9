@@ -1,0 +1,57 @@
+# savage — Generative Engine Optimization Map
+
+> A אופנה ובגדים business.
+
+---
+
+## Pages
+
+### בית
+https://savage-63b9dece.zappy5.app
+גלו חנות בגדים ייחודית המציעה סטייל רחוב מודרני לצעירים. בגדים יומיומיים איכותיים לאירועים ולהסתובבות עם חברים.
+
+### קולקציות
+https://savage-63b9dece.zappy5.app/collections
+גלו את הקולקציות המלאות של חנות בגדים savage - בגדים יומיומיים לצעירים, סטייל רחוב מודרני ובגדים לאירועים. קולקציות ייחודיות שמשלבות נוחות וסטייל.
+
+### אודות
+https://savage-63b9dece.zappy5.app/about
+הכירו את savage - חנות בגדים המתמחה בבגדים יומיומיים לצעירים וסטייל רחוב. הסיפור שלנו, הערכים שלנו והמחויבות שלנו לאיכות ולסטייל ייחודי.
+
+### צור קשר
+https://savage-63b9dece.zappy5.app/contact
+צרו קשר עם savage - חנות בגדים המתמחה בבגדים יומיומיים לצעירים. נשמח לענות על שאלות, לתת ייעוץ סטיילינג ולעזור לכם למצוא את הבגדים המושלמים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://savage-63b9dece.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://savage-63b9dece.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://savage-63b9dece.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About savage
+savage is a business in the אופנה ובגדים industry.
+
+## Target Audience
+אנשים צעירים שמחפשים בגדים יומיומיים להסתובב עם חברים ולאירועים
+
+## Industry
+אופנה ובגדים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://savage-63b9dece.zappy5.app/sitemap.xml
+- **Robots.txt**: https://savage-63b9dece.zappy5.app/robots.txt
